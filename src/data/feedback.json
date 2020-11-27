@@ -1,0 +1,12 @@
+[
+  {
+    "title" : "some title 2",
+    "description" : "some description 2",
+    "img" : "../assets/images/feedback_2.png"
+  },
+  {
+    "title" : "some title 3",
+    "description" : "some description 3",
+    "img" : "../assets/images/feedback_3.jpg"
+  }
+]

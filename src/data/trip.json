@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/1.jpg",
+    "alt": "CRONUS ZAPAD",
+    "name": "Soma Nama",
+    "button": "TRIPA!"
+  },
+  {
+    "img": "../assets/images/2.jpg",
+    "alt": "CRONUS ZAPAD",
+    "name": "Soma Nama",
+    "button": "TRIPA!"
+  },
+  {
+    "img": "../assets/images/3.jpg",
+    "alt": "CRONUS ZAPAD",
+    "name": "Soma Nama",
+    "button": "TRIPA!"
+  },
+  {
+    "img": "../assets/images/4.jpg",
+    "alt": "CRONUS ZAPAD",
+    "name": "Soma Nama",
+    "button": "TRIPA!"
+  }
+]
